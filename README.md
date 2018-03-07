@@ -1,2 +1,1 @@
-# python-projects
 # python-programs
